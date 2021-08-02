@@ -1,0 +1,26 @@
+body
+{
+	background: linear-gradient(#fffb00 0%, #3cff00 100%);
+}
+
+#input
+{
+	background-color:chocolate;
+	border-radius:5px;
+	border-style:solid;
+	border-color:crimson;
+	margin-left:400px;
+	margin-right:400px;
+	color:rgb(0, 217, 255);
+}
+
+#output
+{
+	background-color:darkgreen;
+	border-radius:5px;
+	border-style:solid;
+	border-color:rgb(1, 160, 1);
+	margin-left:400px;
+	margin-right:400px;
+	color:rgb(199, 115, 66);
+}
